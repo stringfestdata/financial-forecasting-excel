@@ -1,3 +1,5 @@
+<!--- https://chatgpt.com/c/68cacf25-13b4-8323-aa66-8ecd8a6a9dcb --->
+
 ## Overview
 This beginner-friendly workshop covers the basics of predictive analytics, enabling finance and accounting professionals to build simple but impactful financial forecasts directly within Excel.
 
